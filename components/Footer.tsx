@@ -26,14 +26,14 @@ const Footer = () => {
             <span className="bg-[#68dde1] flex justify-center items-center h-7 w-7 rounded-full overflow-hidden">
               <IoLocationSharp className="" fontSize={20}/>
             </span>
-            <p>Augustrabe 26, 11134 Berlin</p>
+            <p>Mumbai, MH</p>
           </li>
           
           <li className="flex flex-row gap-x-5">
             <span className="bg-[#68dde1] flex justify-center items-center h-7 w-7 rounded-full overflow-hidden">
               <IoLocationSharp className="" fontSize={20}/>
             </span>
-            <p>Augustrabe 26, 11134 Berlin</p>
+            <p>Mumbai, MH</p>
           </li>
           
         </ul>
@@ -50,7 +50,7 @@ const Footer = () => {
         </Link>
       </div>
       <div className="relative flex justify-center my-12">
-        <small className="">&copy; Amit Parmar. All rights reserved.</small>
+        <small className="">&copy; Varsha Tiwari. All rights reserved.</small>
       </div>
     </div>
   );
