@@ -50,7 +50,7 @@ const Footer = () => {
         </Link>
       </div>
       <div className="relative flex justify-center my-12">
-        <small className="">&copy; Varsha Tiwari. All rights reserved.</small>
+        <small className=""> Varsha Tiwari. All rights reserved.</small>
       </div>
     </div>
   );
